@@ -1,0 +1,15 @@
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\bin\Debug\net6.0\template-csharp-computational-thinking.exe
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\bin\Debug\net6.0\template-csharp-computational-thinking.deps.json
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\bin\Debug\net6.0\template-csharp-computational-thinking.runtimeconfig.json
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\bin\Debug\net6.0\template-csharp-computational-thinking.dll
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\bin\Debug\net6.0\template-csharp-computational-thinking.pdb
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.csproj.AssemblyReference.cache
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.AssemblyInfoInputs.cache
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.AssemblyInfo.cs
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.csproj.CoreCompileInputs.cache
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.dll
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\refint\template-csharp-computational-thinking.dll
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.pdb
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\template-csharp-computational-thinking.genruntimeconfig.cache
+C:\Users\WCCIStudent\Source\repos\computational-thinking-and-loops-Kevin-Dages\obj\Debug\net6.0\ref\template-csharp-computational-thinking.dll
